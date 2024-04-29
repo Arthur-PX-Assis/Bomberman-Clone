@@ -1,1 +1,1 @@
-Certas mecanicas e sprites inacabados
+Certas mecânicas e sprites inacabados
